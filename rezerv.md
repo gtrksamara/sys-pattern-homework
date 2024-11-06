@@ -33,6 +33,24 @@
 На проверку направить файл crontab и скриншот с результатом работы утилиты.
 
 ```
+Скрипт
+
+ #!/bin/bash
+
+   SOURCE_DIR="$HOME/"
+
+   BACKUP_DIR="/tmp/backup"
+
+   CURRENT_DATE=$(date +"%Y-%m-%d %H:%M:%S")
+   LOG_FILE="/var/log/backup_script.log"
+
+   rsync -av --delete "$SOURCE_DIR" "$BACKUP_DIR" >> "$LOG_FILE" 2>&1
+
+   if [ $? -eq 0 ]; then
+       echo "$CURRENT_DATE: Backup completed successfully" >> "$LOG_FILE"
+   else
+       echo "$CURRENT_DATE: Backup failed" >> "$LOG_FILE"
+   fi
 
 
 ```
