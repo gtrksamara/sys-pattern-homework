@@ -55,8 +55,8 @@
 
 ```
 
-![haproxy2](https://github.com/gtrksamara/sys-pattern-homework/blob/main/img/haproxy2.jpg)
-![haproxy3](https://github.com/gtrksamara/sys-pattern-homework/blob/main/img/haproxy3.jpg)
+![backup](https://github.com/gtrksamara/sys-pattern-homework/blob/main/img/backup.jpg)
+![backup2](https://github.com/gtrksamara/sys-pattern-homework/blob/main/img/backup2.jpg)
 
 
 ---
