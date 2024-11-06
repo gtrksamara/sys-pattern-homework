@@ -74,7 +74,7 @@ backend web_servers    # секция бэкенд
 
 ```
 
-При необходимости прикрепитe сюда скриншоты
+
 ![haproxy](https://github.com/gtrksamara/sys-pattern-homework/blob/main/img/haproxy.jpg)
 
 
@@ -151,7 +151,6 @@ backend web_servers    # секция бэкенд
 
 ```
 
-`При необходимости прикрепитe сюда скриншоты
 ![haproxy2](https://github.com/gtrksamara/sys-pattern-homework/blob/main/img/haproxy2.jpg)
 ![haproxy3](https://github.com/gtrksamara/sys-pattern-homework/blob/main/img/haproxy3.jpg)
 
