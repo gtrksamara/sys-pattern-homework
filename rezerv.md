@@ -12,7 +12,7 @@
 
 
 
-![haproxy](https://github.com/gtrksamara/sys-pattern-homework/blob/main/img/haproxy.jpg)
+![rsync](https://github.com/gtrksamara/sys-pattern-homework/blob/main/img/rsync.jpg)
 
 
 ---
