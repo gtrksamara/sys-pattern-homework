@@ -75,8 +75,8 @@ backend web_servers    # секция бэкенд
 
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![haproxy](https://github.com/AndreyTest010/sys-pattern-homework/blob/main/img/haproxy.jpg)`
+При необходимости прикрепитe сюда скриншоты
+![haproxy](https://github.com/AndreyTest010/sys-pattern-homework/blob/main/img/haproxy.jpg)
 
 
 ---
