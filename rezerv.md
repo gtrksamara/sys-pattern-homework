@@ -13,7 +13,7 @@
 На проверку направить скриншот с командой и результатом ее выполнения
 
 
-
+Скриншот: 
 
 ![rsync](https://github.com/gtrksamara/sys-pattern-homework/blob/main/img/rsync.jpg)
 
